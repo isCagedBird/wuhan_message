@@ -7,13 +7,13 @@
 #### Mac端
 下载dist文件夹中的wuhan_message-darwin-x64文件夹，里面的wuhan_message.app双击即可运行，你可以把它放在Mac的程序坞上。
 ##### demo
-![image](https://github.com/isCagedBird/wuhan_message/blob/master/wuhan_message/img/mac1.png)
-![image](https://github.com/isCagedBird/wuhan_message/blob/master/wuhan_message/img/mac2.png)
+![image](https://github.com/isCagedBird/wuhan_message/blob/master/img/mac1.png)
+![image](https://github.com/isCagedBird/wuhan_message/blob/master/img/mac2.png)
 #### Windows端
 下载dist文件夹中的wuhan_message-win32-x64文件夹，里面的wuhan_message.exe双击即可运行,你可以创建快捷方式放到Windows桌面上。
 ##### demo
-![image](https://github.com/isCagedBird/wuhan_message/blob/master/wuhan_message/img/win1.png)
-![image](https://github.com/isCagedBird/wuhan_message/blob/master/wuhan_message/img/win2.png)
+![image](https://github.com/isCagedBird/wuhan_message/blob/master/img/win1.png)
+![image](https://github.com/isCagedBird/wuhan_message/blob/master/img/win2.png)
 ### 开源相关
 本程序所有源码皆开源，如有问题可以此邮箱vogel_im_kafig2016@outlook.com联系我。喜欢的同学可以点个star啊^_^
 
