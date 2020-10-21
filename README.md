@@ -15,6 +15,6 @@
 ![image](https://github.com/isCagedBird/wuhan_message/blob/master/img/win1.png)
 ![image](https://github.com/isCagedBird/wuhan_message/blob/master/img/win2.png)
 ### 开源相关
-本程序所有源码皆开源，如有问题可以此邮箱vogel_im_kafig2016@outlook.com联系我。喜欢的同学可以点个star啊^_^
+本程序所有源码皆开源，喜欢的同学可以点个star啊^_^
 
 ***武汉疫情严重，希望大家多多注意防护！***
